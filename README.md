@@ -7,6 +7,6 @@ MolDeriveX is an AI-driven generative framework designed to navigate the complex
 Installation Steps
 Clone the repository:
 
-Bash
+
 git clone https://github.com/your-username/MolDeriveX.git
 cd MolDeriveX
