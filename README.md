@@ -8,5 +8,6 @@ Installation Steps
 Clone the repository:
 
 
-git clone https://github.com/your-username/MolDeriveX.git
+```bash
+git clone [https://github.com/your-username/MolDeriveX.git](https://github.com/your-username/MolDeriveX.git)
 cd MolDeriveX
